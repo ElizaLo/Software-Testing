@@ -4,3 +4,6 @@
 - using Google Tests
 
 ## Web tests
+
+## Load tests
+- using [JMeter](http://jmeter.apache.org)
